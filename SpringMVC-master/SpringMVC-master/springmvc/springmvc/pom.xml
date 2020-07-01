@@ -8,6 +8,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springmvc Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	<url>http://springmvc.com</url>
+	<developerConnection>scm:svn:http://springmvc.com</developerConnection>
 
 
 	<properties>
