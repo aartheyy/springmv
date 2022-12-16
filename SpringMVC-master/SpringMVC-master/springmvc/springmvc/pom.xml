@@ -16,7 +16,7 @@
 		<project-name>springmvc</project-name>
 		<project-version>0.0.1-SNAPSHOT</project-version>
 		<java-version>1.8</java-version>
-		<org.springframework-version>4.3.0.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.20.RELEASE</org.springframework-version>
 	</properties>
 
 
